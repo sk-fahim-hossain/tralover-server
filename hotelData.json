@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Paradise Resort",
+        "description": "Experience unparalleled luxury and breathtaking views at our 5-star resort.",
+        "location": "Beachfront, Malibu",
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxob3RlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "rooms": [
+            {
+                "id": 1,
+                "type": "Deluxe Ocean View Suite",
+                "price_per_night": 350,
+                "capacity": 2,
+                "image": "https://example.com/room1-image.jpg"
+            },
+            {
+                "id": 2,
+                "type": "Luxury Beachfront Villa",
+                "price_per_night": 500,
+                "capacity": 4,
+                "image": "https://example.com/room2-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mountain View Lodge",
+        "description": "Escape to the serene mountains and enjoy cozy accommodations.",
+        "location": "Mountain Retreat, Aspen",
+        "rating": 4.5,
+        "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
+        "rooms": [
+            {
+                "id": 3,
+                "type": "Mountain Cabin",
+                "price_per_night": 200,
+                "capacity": 2,
+                "image": "https://example.com/room3-image.jpg"
+            },
+            {
+                "id": 4,
+                "type": "Luxury Chalet",
+                "price_per_night": 400,
+                "capacity": 4,
+                "image": "https://example.com/room4-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "City Lights Hotel",
+        "description": "Stay in the heart of the city and explore its vibrant culture.",
+        "location": "Downtown, New York",
+        "rating": 4.3,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
+        "rooms": [
+            {
+                "id": 5,
+                "type": "City View Suite",
+                "price_per_night": 250,
+                "capacity": 2,
+                "image": "https://example.com/room5-image.jpg"
+            },
+            {
+                "id": 6,
+                "type": "Executive Penthouse",
+                "price_per_night": 600,
+                "capacity": 2,
+                "image": "https://example.com/room6-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Riverside Retreat",
+        "description": "Experience the tranquility of riverside living in our charming cottages.",
+        "location": "Riverfront, Vermont",
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdGVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+        "rooms": [
+            {
+                "id": 7,
+                "type": "Riverside Cottage",
+                "price_per_night": 300,
+                "capacity": 2,
+                "image": "https://example.com/room7-image.jpg"
+            },
+            {
+                "id": 8,
+                "type": "Family Suite",
+                "price_per_night": 450,
+                "capacity": 4,
+                "image": "https://example.com/room8-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Historic Manor Inn",
+        "description": "Step back in time and experience the charm of our historic inn.",
+        "location": "Historic District, Charleston",
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGhvdGVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+        "rooms": [
+            {
+                "id": 9,
+                "type": "Antique Suite",
+                "price_per_night": 275,
+                "capacity": 2,
+                "image": "https://example.com/room9-image.jpg"
+            },
+            {
+                "id": 10,
+                "type": "Grand Ballroom Suite",
+                "price_per_night": 600,
+                "capacity": 2,
+                "image": "https://example.com/room10-image.jpg"
+            }
+        ]
+    }
+]
